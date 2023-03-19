@@ -246,7 +246,7 @@ export default function Header({ variant }) {
           <Div>
             <h2 className="cs-side_header_heading">Versenynaptár</h2>
             <div>
-              versenznaptar slider
+              versenynaptar slider
             </div>
           </Div>
           <Div className="cs-side_header_box">
